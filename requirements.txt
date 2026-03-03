@@ -1,0 +1,9 @@
+pyrogram==2.0.106
+TgCrypto
+pytgcalls
+yt-dlp
+aiohttp
+aiofiles
+ffmpeg-python
+motor
+redis[hiredis]
